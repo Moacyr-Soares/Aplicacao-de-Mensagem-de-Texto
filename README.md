@@ -1,2 +1,5 @@
 # Aplicacão-de-Mensagem
- Primeiro Repositório versionado
+ Primeiro Repositório versionado.
+ 
+ Linha acrescentada
+ 
